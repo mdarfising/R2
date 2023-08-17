@@ -1,0 +1,4 @@
+Tools Full Run✅
+pip install requests
+pip install futures
+pip install bs4
